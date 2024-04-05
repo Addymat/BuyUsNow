@@ -4,7 +4,6 @@ import Body from './body';
 import './bootstrap.css';
 import Recommendevents from './Recommendevents';
 import Upcominglist from './Upcominglist';
-import Navoptions from './Navoptions';
 
 
 
@@ -28,12 +27,12 @@ function App() {
 
     //   </>
     // </div>
-    <>
+    <div class ="final">
     <Body/>
     
     <Recommendevents/>
     <Upcominglist/>
-    </>
+    </div>
   );
 }
 

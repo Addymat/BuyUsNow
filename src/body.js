@@ -24,7 +24,7 @@ const Body = () => {
         
     <nav class="navbar navbar-expand-lg bg-body-tertiary justify-contnet-start">
   <div class="container-fluid">
-    <a class="navbar-brand" href="https://music.youtube.com/watch?v=p4664nVBMxg&list=OLAK5uy_kC8h13wbgTvfl5q5CeSyI0k1FuoVQE2R4">Book Us Now</a>
+    <a class="navbar-brand" href="/">Book Us Now</a>
     {/* <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

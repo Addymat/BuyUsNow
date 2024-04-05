@@ -2336,6 +2336,11 @@ textarea.form-control-lg {
     transition: none;
   }
 }
+.final{
+font-family: "Inter";
+background-color: #ffffff;
+}
+
 .form-select:focus {
   border-color: #86b7fe;
   outline: 0;
@@ -2983,7 +2988,7 @@ textarea.form-control-lg {
   color: white;
   border-width:1px;
   display: inline-block;
-  font-family: var(--bs-btn-font-family);
+  font-family: "Inter";
   font-size: var(--bs-btn-font-size);
   font-weight: var(--bs-btn-font-weight);
   line-height: var(--bs-btn-line-height);

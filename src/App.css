@@ -12,8 +12,10 @@
   .navbar-brand {
 
     font-size: x-large;
-    color: brown;
-    text-decoration:#b02a37;
+    color: #CF2D2D;
+    font-family: "Inter";
+    margin-left:5%; 
+    text-decoration:#CF2D2D;
     white-space: nowrap;
     justify-content: end;
   }
@@ -72,6 +74,7 @@
     left: 50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    font-family: "Inter";
     width: 80%; /* Adjust width as needed */
   }
   
@@ -83,6 +86,7 @@
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
+    font-family: "Inter";
     width: 80%; /* Adjust width as needed */
   }
   
@@ -92,6 +96,8 @@
     position: absolute;
     top: 50%; /* Adjust top position as needed */
     left: 50%;
+    font-family: "Inter";
+
     transform: translateX(-50%);
     text-align: center;
     width: 80%; /* Adjust width as needed */
@@ -103,6 +109,8 @@
     position: absolute;
     top: 55%; /* Adjust top position as needed */
     left: 50%;
+    font-family: "Inter";
+
     transform: translateX(-50%);
     text-align: center;
     width: 80%; /* Adjust width as needed */
@@ -131,16 +139,22 @@
   .img_title{
     position:relative;
     color: black;
+    font-family: "Inter";
+
   }
 
   .card-text{
     font-size:medium;
     text-wrap:wrap;
+    font-family: "Inter";
+
   
   }
   .uc_card-text{
     font-size:medium;
     text-wrap:wrap;
+    font-family: "Inter";
+
   
   }
   
@@ -176,6 +190,8 @@
     color: white;
     font-size: large;
     font-weight: bold;
+    font-family: "Inter";
+
   }
   
   .recommended_movie{
@@ -200,18 +216,23 @@
     position: relative;
     color: black;
     font-size: large;
+    font-family: "Inter";
+
     font-weight: bold;
   }
   
   .uc_card{
     text-align:left;
+    font-family: "Inter";
+
   }
   
   
   .upcoming_List{
   display: grid;
   text-align: center;
-  
+  font-family: "Inter";
+
   
   }
   
@@ -236,6 +257,8 @@
     margin-top: -1%;
     position: absolute;
     left:42%;
+    font-family: "Inter";
+
     /* justify-content: center; */
 
   }
@@ -276,10 +299,13 @@
     justify-content: center;
     font-size: calc(10px + 2vmin);
     color: white;
+
   }
   
   .contained{
    position: relative;
+   font-family: "Inter";
+
   
   }
   
